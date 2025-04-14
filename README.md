@@ -72,7 +72,7 @@ Distribución de Costos de Envío por Tienda (Box Plot)
 
 1.  **Clonar o Descargar:** Obtén los archivos de este repositorio, principalmente el cuaderno de Jupyter (`.ipynb`).
     ```bash
-    git clone https://github.com/thecat065/data-science-challenge-alura
+    git clone https://github.com/thecat065/data-science-challenge-alura.git
     ```
     O descarga el ZIP desde GitHub.
 2.  **Abrir en Google Colab:**
@@ -84,9 +84,9 @@ Distribución de Costos de Envío por Tienda (Box Plot)
 
 ## 👤 Autor
 
-*   **[Tu Nombre Completo]**
-*   **LinkedIn:** [Enlace a tu perfil de LinkedIn (Opcional)]
-*   **GitHub:** [Enlace a tu perfil de GitHub (Opcional)]
+*   **Carlos, Victorio Puma**
+*   **LinkedIn:** https://www.linkedin.com/in/carlosvictoriopuma
+*   **GitHub:** https://github.com/thecat065
 
 ---
 *Proyecto realizado como parte del Challenge Data Science ONE (Oracle Next Education + Alura Latam).*
